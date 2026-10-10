@@ -8,8 +8,7 @@
 * open 'index.html' in your google
 * view live link
 ### link to live site on github pages
-
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+[text](https://github.com/Erick20042026/html-git)
+### Copyright and License
+Copyright (c) 2026 Erick. licensed under lol license.
   
